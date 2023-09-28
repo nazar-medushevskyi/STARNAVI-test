@@ -1,4 +1,5 @@
 # STARNAVI-test
+<img width="518" alt="Снимок экрана 2023-09-28 в 21 58 16" src="https://github.com/nazar-medushevskyi/STARNAVI-test/assets/113504270/e32f585d-c28e-463c-be8f-abcbbef9bd35">
 
 This is a test task from the company StarNavi.
 
